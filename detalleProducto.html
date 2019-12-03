@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script src="java/java.js" type="text/javascript"></script>
+    <!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Raleway|Sacramento&display=swap" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="css\base.css">
+<script src="js/main.js" type="text/javascript"></script>
+
+    <title>Custom-T</title>
+  </head>
+  <body>
+    <!-- Éste contenedor debe contener unicamente Header, Centro y Footer -->
+    <div id="Main container" class="d-flex flex-column p-2 bd-highlight">
+      <nuevo-header>
+
+      </nuevo-header>
+<!--Acá termina la barra de navegacion-->
+<!--Acá empieza el centro-->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Large modal</button>
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <div class="tituloDetalle">
+        <h2 class="align text-center"><b>Personalizá tu Producto</b></h2>
+      </div>
+      <br><br>
+      <div id="personalizaTuProducto"class="container" width="60%" class="cols">
+        <div class="left-col" class="col-6" >
+          <img src="img/musculosa_1.jpg" alt="" width="40%" >
+          <div class="areaDeSublimado">
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+
+          </div>
+        </div>
+        <div class="right-col" class="col-6">
+          <div class="nombreDelProducto">
+          <h2>"Remera XXXX"</h2>
+          </div>
+          <br>
+          <br>
+          <div class="precioDP" class="col-12">
+            <h1> 280$</h1>
+          </div>
+          <br><br><br>
+
+      <div class="ColorRemera" class="row" >
+        <h3>Colores Disponibles</h3>
+         <div class="col-12" class="btn-group flex-wrap" >
+
+        <label class="radio">Blanco
+            <input type="radio" checked="checked" name="radio">
+            <span class="check"></span>
+        </label>
+        <label class="radio">Negro
+            <input type="radio" name="radio">
+            <span class="check"></span>
+        </label>
+        <label class="radio">Amarillo
+            <input type="radio" name="radio">
+            <span class="check"></span>
+        </label>
+        <label class="radio">Azul
+            <input type="radio" name="radio">
+            <span class="check"></span>
+        </label>
+        <label class="radio">Verde
+            <input type="radio" name="radio">
+            <span class="check"></span>
+        </label>
+        <label class="radio">Rosa
+            <input type="radio" name="radio">
+            <span class="check"></span>
+        </label>
+        <div class="talles" class="col-2" class="btn-group flex-wrap" >
+          <label for="talla"><h3>Tallas</h3></label><br>
+           <select class="SM" name="talla">
+             <option value="S">S</option>
+             <option value="M">M</option>
+             <option value="L">L</option>
+             <option value="XL">XL</option>
+             <option value="XXL">XXL</option>
+             <option value="XXXL">XXXL</option>
+
+           </select>
+
+        </div>
+        <br>
+        <div class="col-xs-12 col-sm-6 col-lg-10" id="archivo" >
+          <h3>Cargá el archivo que desees sublimar</h3>
+          <div class="custom-file" class="flex-wrap" >
+           <input type="file" class="custom-file-input" id="customFile" >
+           <label  class="custom-file-label" for="customFile">Seleccioná tu Archivo</label>
+          </div>
+        </div>
+        <br>
+
+        <div class="tipografia" class="col-8" class="btn-group flex-wrap" >
+          <h3>Seleccioná tu Tipografia</h3>
+           <select class="a" name="talla">
+             <option style="font-family:"Arial"" value="Arial">Arial</option>
+             <option style="font-family:'Verdana'" value="Verdana">Verdana</option>
+             <option style="font-family:'Open Sans',serif" value="Open">Open Sans</option>
+             <option style="font-family:'Suez One',serif" value="SO">Suez One</option>
+             <option style="font-family:'Sacramento',cursive" value="SO">Sacramento</option>
+             <option style="font-family: 'Yellowtail', cursive" value="SO">Yellowtail</option>
+
+           </select>
+
+        </div>
+      <br>
+      <br>
+
+      <div class="botonComprar" >
+        <div class="PrecioTotal">
+          <h3 style="font-weight:bold">Precio: 280$</h3>
+        <button class="btn btn-primary" type="submit" name="buttonComprar">Comprar</button>
+      </div>
+      <br><br>
+
+         </div>
+      </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<nuevo-footer>
+
+</nuevo-footer>
+
+
+  </div>
+
+
+  <script src="https://kit.fontawesome.com/f0b56f6b49.js" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" inegrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="js\app.js"></script>
+  </body>
+  </html>
