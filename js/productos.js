@@ -804,7 +804,7 @@
 
   <div class="col-12 col-md-6 col-lg-3" id="niños">
    <div  class="card text-center" id="cardProductos">
-      <img class="card-img-top" src="img/kids_1.jpg" alt=""id="ninio4"class="imagen">
+      <img class="card-img-top" src="img/kids_1.jpg" alt=""id="ninio1"class="imagen">
     <div class="card-body">
       <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°1</a></h4>
       <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
@@ -820,7 +820,7 @@
 
   <div class="col-12 col-md-6 col-lg-3" id="niños">
    <div  class="card text-center" id="cardProductos">
-     <img class="card-img-top" src="img/kids_2.jpg" alt="" id="ninio4"class="imagen">
+     <img class="card-img-top" src="img/kids_2.jpg" alt="" id="ninio2"class="imagen">
     <div class="card-body">
       <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°2</a></h4>
       <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
@@ -836,7 +836,7 @@
 
    <div class="col-12 col-md-6 col-lg-3" id="niños">
     <div  class="card text-center" id="cardProductos">
-       <img class="card-img-top" src="img/kids_3.jpg" alt="" id="ninio4" class="imagen">
+       <img class="card-img-top" src="img/kids_3.jpg" alt="" id="ninio3" class="imagen">
      <div class="card-body">
        <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°3</a></h4>
        <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
@@ -868,7 +868,7 @@
 
  <div class="col-12 col-md-6 col-lg-3" id="niños">
   <div  class="card text-center" id="cardProductos">
-     <img class="card-img-top" src="img/kids_5.jpg" alt="" id="ninio4" class="imagen">
+     <img class="card-img-top" src="img/kids_5.jpg" alt="" id="ninio5" class="imagen">
    <div class="card-body">
      <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°5</a></h4>
      <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
@@ -884,7 +884,7 @@
 
   <div class="col-12 col-md-6 col-lg-3" id="niños">
    <div  class="card text-center" id="cardProductos">
-     <img class="card-img-top" src="img/kids_6.jpg" alt="" id="ninio4" class="imagen">
+     <img class="card-img-top" src="img/kids_6.jpg" alt="" id="ninio6" class="imagen">
     <div class="card-body">
      <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°6</a></h4>
      <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
@@ -900,7 +900,7 @@
 
  <div class="col-12 col-md-6 col-lg-3" id="niños">
   <div  class="card text-center" id="cardProductos">
-     <img class="card-img-top" src="img/kids_7.jpg" alt="" id="ninio4" class="imagen">
+     <img class="card-img-top" src="img/kids_7.jpg" alt="" id="ninio7" class="imagen">
    <div class="card-body">
      <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°7</a></h4>
      <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
@@ -916,7 +916,7 @@
 
  <div class="col-12 col-md-6 col-lg-3" id="niños">
   <div  class="card text-center" id="cardProductos">
-     <img class="card-img-top" src="img/kids_8.jpg" alt="" class="imagen"id="ninio4" onclick="myFunction()">
+     <img class="card-img-top" src="img/kids_8.jpg" alt="" class="imagen"id="ninio8" onclick="myFunction()">
    <div class="card-body">
      <h4 class="card-title" class="text-center"><a href="product.html" title="View Product">Kids Modelo N°8</a></h4>
      <p class="card-text">Cuando busques algo duradero para tu niño tenemos la opción</p>
